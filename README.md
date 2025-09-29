@@ -1,6 +1,6 @@
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou Samuel Nicolas,com cursado em Análise e Desenvolvimento de Sistemas e atualmente estudante do curso técnico de Desenvolvimento de Sistemas. gosto de criar e resolver desafios tecnológicos, com experiência em Python, PHP, JavaScript e outras ferramentas.:
+Sou Samuel Nicolas, cursado em Análise e Desenvolvimento de Sistemas e atualmente estudante do curso técnico de Desenvolvimento de Sistemas. gosto de criar e resolver desafios tecnológicos, com experiência em Python, PHP, JavaScript e outras ferramentas.:
 
 ---
 
