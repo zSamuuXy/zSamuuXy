@@ -1,6 +1,6 @@
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou Samuel Nicolas,e atualmente sou estudante do curso técnico de Desenvolvimento de Sistemas. gosto de criar e resolver desafios tecnológicos, com experiência em Python, PHP, JavaScript e outras ferramentas.:
+Sou Samuel Nicolas,e atualmente sou estudante do curso técnico de Desenvolvimento de Sistemas. gosto de criar e resolver desafios tecnológicos, com experiência em Python, JavaScript e outras ferramentas.:
 
 ---
 
@@ -12,8 +12,7 @@ Sou Samuel Nicolas,e atualmente sou estudante do curso técnico de Desenvolvimen
 ## ⚡ Tecnologias que eu uso
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)style=
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
